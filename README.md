@@ -1,8 +1,4 @@
-Alright bro, let’s make a **clean, professional GitHub README** for your Phishing Email Classifier project. I’ll include setup, running, testing, and explanation of endpoints.
 
-Here’s a full draft you can use:
-
----
 
 # Phishing Email Classifier (NLP + FastAPI)
 
@@ -183,4 +179,5 @@ You can test `/predict` directly from the browser.
 * Add batch prediction endpoint for multiple emails.
 * Dockerize the API for deployment.
 * Integrate into a browser extension or email gateway.
+
 
