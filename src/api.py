@@ -63,3 +63,4 @@ def predict(email: EmailInput):
     label = "flagged" if y_pred == 1 else "safe"  # <-- convert numeric to text
 
     return {"prediction": label, "confidence": float(proba)}
+
